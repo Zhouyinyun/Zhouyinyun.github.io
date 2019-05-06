@@ -1,4 +1,4 @@
 name: Benjamin.zhou
-markdown: markdown
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
