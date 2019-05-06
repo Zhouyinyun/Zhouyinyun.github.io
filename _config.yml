@@ -1,4 +1,4 @@
-name: Hank Quinlan, Horrible Cop
-markdown: kramdown
+name: Benjamin.zhou
+markdown: markdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
